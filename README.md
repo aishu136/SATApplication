@@ -1,4 +1,2 @@
 # satApplication
-# satApplication
-# SATDetailsApplication
-# SATApplication
+
